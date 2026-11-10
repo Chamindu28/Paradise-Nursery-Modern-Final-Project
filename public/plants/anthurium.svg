@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="600" height="700">
+    <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#e6e7dc"/><stop offset="1" stop-color="#f9f6ee"/></linearGradient>
+    <linearGradient id="pot" x1="0" x2="1" y1="0" y2=".5"><stop stop-color="#d4c3aa"/><stop offset=".5" stop-color="#f4e5cf"/><stop offset="1" stop-color="#c4b299"/></linearGradient>
+    <linearGradient id="deep" x1="0" x2="1"><stop stop-color="#27553f"/><stop offset="1" stop-color="#457d54"/></linearGradient>
+    </defs>
+    <rect width="100%" height="100%" rx="26" fill="url(#bg)"/>
+    <circle cx="300.0" cy="273" r="222" fill="#fff" opacity=".32"/>
+    <path d="M 60 581 H 540" stroke="#a2a69a" stroke-width="2" opacity=".23"/>
+    <ellipse cx="300.0" cy="616" rx="132" ry="22" fill="#56614b" opacity=".12"/>
+<path d="M 296.4 497.0 Q 243.4 343.0 159.8 233.4" fill="none" stroke="#587e60" stroke-width="6" stroke-linecap="round"/>
+<path d="M 144.8 288.4 Q 189.3 206.1 132.4 131.8 Q 87.9 214.1 144.8 288.4 Z" fill="#315b46" opacity="1"/><path d="M 144.8 288.4 L 132.4 131.8" stroke="#b0c59d" stroke-width="2.3" opacity=".43" fill="none"/>
+<ellipse cx="155.3" cy="243.6" rx="5.8" ry="9.6" fill="#c45754" transform="rotate(0 155.3 243.6)"/>
+<ellipse cx="165.2" cy="250.8" rx="5.8" ry="9.6" fill="#c45754" transform="rotate(72 165.2 250.8)"/>
+<ellipse cx="161.4" cy="262.4" rx="5.8" ry="9.6" fill="#c45754" transform="rotate(144 161.4 262.4)"/>
+<ellipse cx="149.1" cy="262.4" rx="5.8" ry="9.6" fill="#c45754" transform="rotate(216 149.1 262.4)"/>
+<ellipse cx="145.4" cy="250.8" rx="5.8" ry="9.6" fill="#c45754" transform="rotate(288 145.4 250.8)"/>
+<circle cx="155.25874199264635" cy="254.01306805187187" r="3.7448416538434133" fill="#d7b778"/>
+<path d="M 298.1 497.0 Q 262.3 343.0 225.9 266.7" fill="none" stroke="#587e60" stroke-width="6" stroke-linecap="round"/>
+<path d="M 210.9 321.7 Q 227.8 222.3 167.1 141.8 Q 150.2 241.2 210.9 321.7 Z" fill="#477e5c" opacity="1"/><path d="M 210.9 321.7 L 167.1 141.8" stroke="#b0c59d" stroke-width="2.3" opacity=".43" fill="none"/>
+<ellipse cx="227.6" cy="249.8" rx="7.6" ry="12.5" fill="#d76b60" transform="rotate(0 227.6 249.8)"/>
+<ellipse cx="240.5" cy="259.1" rx="7.6" ry="12.5" fill="#d76b60" transform="rotate(72 240.5 259.1)"/>
+<ellipse cx="235.6" cy="274.3" rx="7.6" ry="12.5" fill="#d76b60" transform="rotate(144 235.6 274.3)"/>
+<ellipse cx="219.7" cy="274.3" rx="7.6" ry="12.5" fill="#d76b60" transform="rotate(216 219.7 274.3)"/>
+<ellipse cx="214.8" cy="259.1" rx="7.6" ry="12.5" fill="#d76b60" transform="rotate(288 214.8 259.1)"/>
+<circle cx="227.63534045693652" cy="263.2985769259438" r="4.875009222480677" fill="#d7b778"/>
+<path d="M 306.0 497.0 Q 281.1 343.0 271.9 234.4" fill="none" stroke="#587e60" stroke-width="6" stroke-linecap="round"/>
+<path d="M 256.9 289.4 Q 311.5 202.0 245.4 123.0 Q 190.9 210.4 256.9 289.4 Z" fill="#477e5c" opacity="1"/><path d="M 256.9 289.4 L 245.4 123.0" stroke="#b0c59d" stroke-width="2.3" opacity=".43" fill="none"/>
+<ellipse cx="277.3" cy="225.3" rx="6.7" ry="11.0" fill="#d76b60" transform="rotate(0 277.3 225.3)"/>
+<ellipse cx="288.7" cy="233.5" rx="6.7" ry="11.0" fill="#d76b60" transform="rotate(72 288.7 233.5)"/>
+<ellipse cx="284.4" cy="246.9" rx="6.7" ry="11.0" fill="#d76b60" transform="rotate(144 284.4 246.9)"/>
+<ellipse cx="270.3" cy="246.9" rx="6.7" ry="11.0" fill="#d76b60" transform="rotate(216 270.3 246.9)"/>
+<ellipse cx="266.0" cy="233.5" rx="6.7" ry="11.0" fill="#d76b60" transform="rotate(288 266.0 233.5)"/>
+<circle cx="277.33510157721213" cy="237.21518795659114" r="4.301498930200771" fill="#d7b778"/>
+<path d="M 289.4 497.0 Q 300.0 343.0 283.0 207.1" fill="none" stroke="#587e60" stroke-width="6" stroke-linecap="round"/>
+<path d="M 268.0 262.1 Q 292.6 163.5 201.7 118.2 Q 177.1 216.7 268.0 262.1 Z" fill="#457d54" opacity="1"/><path d="M 268.0 262.1 L 201.7 118.2" stroke="#b0c59d" stroke-width="2.3" opacity=".43" fill="none"/>
+<ellipse cx="284.8" cy="194.8" rx="6.8" ry="11.2" fill="#d76b60" transform="rotate(0 284.8 194.8)"/>
+<ellipse cx="296.3" cy="203.2" rx="6.8" ry="11.2" fill="#d76b60" transform="rotate(72 296.3 203.2)"/>
+<ellipse cx="291.9" cy="216.8" rx="6.8" ry="11.2" fill="#d76b60" transform="rotate(144 291.9 216.8)"/>
+<ellipse cx="277.6" cy="216.8" rx="6.8" ry="11.2" fill="#d76b60" transform="rotate(216 277.6 216.8)"/>
+<ellipse cx="273.2" cy="203.2" rx="6.8" ry="11.2" fill="#d76b60" transform="rotate(288 273.2 203.2)"/>
+<circle cx="284.76319158991515" cy="206.92008855810093" r="4.37944675678445" fill="#d7b778"/>
+<path d="M 291.6 497.0 Q 318.9 343.0 335.5 168.3" fill="none" stroke="#587e60" stroke-width="6" stroke-linecap="round"/>
+<path d="M 320.5 223.3 Q 355.9 145.0 291.7 88.0 Q 256.3 166.3 320.5 223.3 Z" fill="#477e5c" opacity="1"/><path d="M 320.5 223.3 L 291.7 88.0" stroke="#b0c59d" stroke-width="2.3" opacity=".43" fill="none"/>
+<ellipse cx="340.7" cy="163.1" rx="8.0" ry="13.1" fill="#c45754" transform="rotate(0 340.7 163.1)"/>
+<ellipse cx="354.2" cy="172.9" rx="8.0" ry="13.1" fill="#c45754" transform="rotate(72 354.2 172.9)"/>
+<ellipse cx="349.0" cy="188.9" rx="8.0" ry="13.1" fill="#c45754" transform="rotate(144 349.0 188.9)"/>
+<ellipse cx="332.3" cy="188.9" rx="8.0" ry="13.1" fill="#c45754" transform="rotate(216 332.3 188.9)"/>
+<ellipse cx="327.1" cy="172.9" rx="8.0" ry="13.1" fill="#c45754" transform="rotate(288 327.1 172.9)"/>
+<circle cx="340.66931518676245" cy="177.32592316409608" r="5.128679472287931" fill="#d7b778"/>
+<path d="M 295.6 497.0 Q 337.7 343.0 398.0 168.5" fill="none" stroke="#587e60" stroke-width="6" stroke-linecap="round"/>
+<path d="M 383.0 223.5 Q 460.2 158.9 426.7 64.0 Q 349.5 128.6 383.0 223.5 Z" fill="#315b46" opacity="1"/><path d="M 383.0 223.5 L 426.7 64.0" stroke="#b0c59d" stroke-width="2.3" opacity=".43" fill="none"/>
+<ellipse cx="396.7" cy="145.8" rx="7.3" ry="12.0" fill="#d76b60" transform="rotate(0 396.7 145.8)"/>
+<ellipse cx="409.1" cy="154.8" rx="7.3" ry="12.0" fill="#d76b60" transform="rotate(72 409.1 154.8)"/>
+<ellipse cx="404.4" cy="169.4" rx="7.3" ry="12.0" fill="#d76b60" transform="rotate(144 404.4 169.4)"/>
+<ellipse cx="389.1" cy="169.4" rx="7.3" ry="12.0" fill="#d76b60" transform="rotate(216 389.1 169.4)"/>
+<ellipse cx="384.3" cy="154.8" rx="7.3" ry="12.0" fill="#d76b60" transform="rotate(288 384.3 154.8)"/>
+<circle cx="396.72091755761954" cy="158.82249901105976" r="4.693258669786202" fill="#d7b778"/>
+<path d="M 306.6 497.0 Q 356.6 343.0 459.8 285.2" fill="none" stroke="#587e60" stroke-width="6" stroke-linecap="round"/>
+<path d="M 444.8 340.2 Q 520.6 299.7 504.1 215.3 Q 428.3 255.8 444.8 340.2 Z" fill="#8ca96f" opacity="1"/><path d="M 444.8 340.2 L 504.1 215.3" stroke="#b0c59d" stroke-width="2.3" opacity=".43" fill="none"/>
+<ellipse cx="464.5" cy="287.5" rx="6.5" ry="10.7" fill="#c45754" transform="rotate(0 464.5 287.5)"/>
+<ellipse cx="475.6" cy="295.6" rx="6.5" ry="10.7" fill="#c45754" transform="rotate(72 475.6 295.6)"/>
+<ellipse cx="471.3" cy="308.6" rx="6.5" ry="10.7" fill="#c45754" transform="rotate(144 471.3 308.6)"/>
+<ellipse cx="457.6" cy="308.6" rx="6.5" ry="10.7" fill="#c45754" transform="rotate(216 457.6 308.6)"/>
+<ellipse cx="453.4" cy="295.6" rx="6.5" ry="10.7" fill="#c45754" transform="rotate(288 453.4 295.6)"/>
+<circle cx="464.48924198997184" cy="299.16402724267317" r="4.195441290887499" fill="#d7b778"/>
+<path d="M 170 480 L 200 626 Q 300 640 400 626 L 430 480 Z" fill="url(#pot)"/>
+<ellipse cx="300.0" cy="480" rx="130" ry="20" fill="#8f7c64"/>
+<ellipse cx="300.0" cy="473" rx="130" ry="15" fill="#e4d0b4"/>
+<path d="M 214 515 Q 222 570 236 591" stroke="#fff4e8" stroke-width="7" fill="none" opacity=".38"/>
+</svg>

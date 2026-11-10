@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="600" height="700">
+    <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#e3ebe2"/><stop offset="1" stop-color="#f9f6ee"/></linearGradient>
+    <linearGradient id="pot" x1="0" x2="1" y1="0" y2=".5"><stop stop-color="#d4c3aa"/><stop offset=".5" stop-color="#f4e5cf"/><stop offset="1" stop-color="#c4b299"/></linearGradient>
+    <linearGradient id="deep" x1="0" x2="1"><stop stop-color="#27553f"/><stop offset="1" stop-color="#6e9984"/></linearGradient>
+    </defs>
+    <rect width="100%" height="100%" rx="26" fill="url(#bg)"/>
+    <circle cx="300.0" cy="273" r="222" fill="#fff" opacity=".32"/>
+    <path d="M 60 581 H 540" stroke="#a2a69a" stroke-width="2" opacity=".23"/>
+    <ellipse cx="300.0" cy="616" rx="132" ry="22" fill="#56614b" opacity=".12"/>
+<path d="M 344.8 501.9 Q 329.6 372.7 254.8 266.3 Q 270.0 395.5 344.8 501.9 Z" fill="#2b6049" opacity="1"/><path d="M 344.8 501.9 L 254.8 266.3" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 269.6 503.3 Q 268.7 372.5 225.5 249.0 Q 226.4 379.8 269.6 503.3 Z" fill="#6e9984" opacity="1"/><path d="M 269.6 503.3 L 225.5 249.0" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 311.4 506.7 Q 295.8 374.9 214.8 269.7 Q 230.4 401.5 311.4 506.7 Z" fill="#2b6049" opacity="1"/><path d="M 311.4 506.7 L 214.8 269.7" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 352.3 490.2 Q 411.6 374.8 398.9 245.7 Q 339.5 361.1 352.3 490.2 Z" fill="#83a98b" opacity="1"/><path d="M 352.3 490.2 L 398.9 245.7" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 275.5 488.0 Q 342.3 360.7 338.0 217.1 Q 271.2 344.3 275.5 488.0 Z" fill="#6e9984" opacity="1"/><path d="M 275.5 488.0 L 338.0 217.1" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 309.4 498.1 Q 352.5 401.8 349.2 296.4 Q 306.2 392.7 309.4 498.1 Z" fill="#739a69" opacity="1"/><path d="M 309.4 498.1 L 349.2 296.4" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 313.3 499.9 Q 312.0 358.1 245.4 232.8 Q 246.7 374.6 313.3 499.9 Z" fill="#6e9984" opacity="1"/><path d="M 313.3 499.9 L 245.4 232.8" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 280.9 497.3 Q 318.9 411.3 302.6 318.7 Q 264.5 404.7 280.9 497.3 Z" fill="#2b6049" opacity="1"/><path d="M 280.9 497.3 L 302.6 318.7" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 333.8 490.7 Q 342.8 363.2 299.5 242.9 Q 290.5 370.4 333.8 490.7 Z" fill="#6e9984" opacity="1"/><path d="M 333.8 490.7 L 299.5 242.9" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 248.5 513.4 Q 268.5 379.1 228.5 249.4 Q 208.5 383.7 248.5 513.4 Z" fill="#83a98b" opacity="1"/><path d="M 248.5 513.4 L 228.5 249.4" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 251.8 503.8 Q 294.9 370.6 293.9 230.6 Q 250.7 363.8 251.8 503.8 Z" fill="#2b6049" opacity="1"/><path d="M 251.8 503.8 L 293.9 230.6" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 327.6 512.5 Q 383.9 422.9 391.1 317.3 Q 334.8 406.9 327.6 512.5 Z" fill="#2b6049" opacity="1"/><path d="M 327.6 512.5 L 391.1 317.3" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 283.1 507.5 Q 350.2 445.1 374.2 356.6 Q 307.0 419.0 283.1 507.5 Z" fill="#739a69" opacity="1"/><path d="M 283.1 507.5 L 374.2 356.6" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 297.3 492.4 Q 360.8 399.1 363.1 286.3 Q 299.5 379.6 297.3 492.4 Z" fill="#83a98b" opacity="1"/><path d="M 297.3 492.4 L 363.1 286.3" stroke="#c1d1a7" stroke-width="2.3" opacity=".43" fill="none"/>
+<path d="M 170 480 L 200 626 Q 300 640 400 626 L 430 480 Z" fill="url(#pot)"/>
+<ellipse cx="300.0" cy="480" rx="130" ry="20" fill="#8f7c64"/>
+<ellipse cx="300.0" cy="473" rx="130" ry="15" fill="#e4d0b4"/>
+<path d="M 214 515 Q 222 570 236 591" stroke="#fff4e8" stroke-width="7" fill="none" opacity=".38"/>
+</svg>
